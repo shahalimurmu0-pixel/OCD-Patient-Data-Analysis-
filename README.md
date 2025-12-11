@@ -34,7 +34,7 @@ Raw patient data is difficult to understand on its own. Tables with hundreds of 
 - Obsession types with the highest OCD scores
 - Most frequent compulsion types overall
 
-  Dashboard interaction - <a href="
+  Dashboard interaction - <a href="https://github.com/shahalimurmu0-pixel/OCD-Patient-Data-Analysis-/blob/main/Screenshot%202025-12-08%20235142.png">View Dashboard </a>
 
 
 
